@@ -76,7 +76,7 @@ for unique in lista_bandas:
                 rgb.write(b3.read(1),2)
                 rgb.write(b2.read(1),3)
                 rgb.write(b8.read(1),4)
-                #rgb.close()
+                
 
       
         #gerar NDVI
